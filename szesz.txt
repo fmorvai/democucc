@@ -4,3 +4,4 @@ pálinka
 gin
 tonic
 kóla
+szilvapálinka
